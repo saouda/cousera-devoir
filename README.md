@@ -1,2 +1,2 @@
 # hello-world
-programming projects for all languages
+Corsera Devoir : Programming Assignment 2: Lexical Scoping
